@@ -1,4 +1,4 @@
-# @bwqdxxg/hexo-asset-image
+# Debug Index.js
 
 
 Give asset image in hexo a absolutely path automatically
