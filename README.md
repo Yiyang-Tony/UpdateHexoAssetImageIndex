@@ -5,9 +5,8 @@ Give asset image in hexo a absolutely path automatically
 
 # Usege
 
-```shell
-yarn add @bwqdxxg/hexo-asset-image
-```
+- ` git clone https://github.com/Yiyang-Tony/UpdateHexoAssetImageIndex.git`
+- replace `hexo-asset-image\index.js`
 
 # Example
 
